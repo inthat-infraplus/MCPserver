@@ -1,2 +1,2 @@
 # MCPserver
-host mcp server on 
+host mcp server on various platform
