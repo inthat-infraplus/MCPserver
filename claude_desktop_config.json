@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "Demo": {
+      "command": "C:\\Users\\Admin\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "D:\\Learning\\MCP\\MCPServerTutorial\\main.py"
+      ]
+    },
+    "postgres-server" : {
+      "command": "C:\\Users\\Admin\\.local\\bin\\uv.EXE",
+      "args": [
+        "--directory",
+        "D:\\Learning\\MCP\\MCPServerTutorial",
+        "run",
+        "postgres-demo.py"
+      ]
+    }
+  }
+}
